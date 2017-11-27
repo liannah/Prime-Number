@@ -1,12 +1,4 @@
 
-;   A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
-
-;   *****************************************************************************************************************
-;   *                                                       *
-;   * Please note how the comments on the right allows almost anybody to create the assembly language to its left   *
-;   *                                                       *
-;   *****************************************************************************************************************
-
 .MODEL  SMALL
 
 .stack  100H            ; start the stack at SS:100H
